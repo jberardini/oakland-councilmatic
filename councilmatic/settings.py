@@ -40,6 +40,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'haystack',
     'city',
+    'oakland',
     'councilmatic_core',
 )
 
@@ -88,7 +89,7 @@ WSGI_APPLICATION = 'councilmatic.wsgi.application'
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'America/Chicago'
+TIME_ZONE = 'America/Los_Angeles'
 
 USE_I18N = True
 
