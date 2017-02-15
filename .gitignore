@@ -1,1 +1,10 @@
+# Virtual Environment
 env/
+.env/
+env
+
+#Compiled Python Files
+*.pyc
+
+# Vagrant
+.vagrant/
