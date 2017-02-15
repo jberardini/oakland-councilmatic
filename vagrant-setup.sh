@@ -10,7 +10,7 @@ sudo pip install -U pip
 # install useful python packages
 sudo pip install psycopg2
 
-# set up virtual environment
+# set up requirements
  cd /vagrant
 sudo pip install -r requirements.txt
 
